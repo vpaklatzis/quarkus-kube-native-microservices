@@ -1,0 +1,9 @@
+quarkus:
+  container-image:
+    group:
+      quarkus-mp
+    name:
+      account-service
+  kubernetes:
+    name:
+      account-service
